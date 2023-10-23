@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #146C94;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.nav-items {
+    display: flex;
+}
+
+.nav-items>.item {
+    margin-right: 32px;
+}
+
+.item {
+    position: relative;
+}
+
+.item span {
+    position: absolute;
+    content: "";
+    bottom: -8px;
+    left: 0;
+    height: 6px;
+    width: 100%;
+    background-color: white;
+}
+
