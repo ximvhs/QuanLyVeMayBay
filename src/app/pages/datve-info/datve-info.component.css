@@ -47,6 +47,10 @@
     line-height: 34px;
 }
 
+.h-60px {
+    height: 60px;
+}
+
 .btn-outline-danger {
     --bs-btn-color: #146C94;
     --bs-btn-border-color: #146C94;
